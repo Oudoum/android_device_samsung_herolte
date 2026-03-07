@@ -21,6 +21,6 @@
           {type} - Build type
           {incr} - Incremental version
     -->
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/ivanmeler/ota_provider/master/20.0/herolte.json</string>
-    <string name="menu_changelog_url" translatable="false">https://ivanmeler.github.io/changes/herolte-20.html</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/Oudoum/android_ota_provider/main/20.0/herolte.json</string>
+    <string name="menu_changelog_url" translatable="false">https://oudoum.github.io/android_ota_provider/20.0/herolte_changelog.html</string>
 </resources>
